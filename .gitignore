@@ -1,0 +1,6 @@
+*.sw?
+
+esxi-disk-copy
+esxi-disk-copy.linux_amd64
+esxi-disk-copy.macos_amd64
+esxi-disk-copy.windows_amd64.exe
